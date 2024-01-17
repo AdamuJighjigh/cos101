@@ -7,8 +7,3 @@ simple_interest = (p*(1+r*t))
 compound_interest = (p*(1+r/n)**(n*t))
 print("simple interest = "+str(simple_interest))
 print("compound interest = "+str(compound_interest))
-
-
-
-
-
